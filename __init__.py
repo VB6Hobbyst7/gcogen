@@ -229,31 +229,3 @@ class Tool:
             i += 1
         print final_code
         print "================================================"
-
-
-
-t = Tool()
-
-t.change_speed(10)
-
-t.forward(120)
-
-t.left(90)
-
-t.forward(40)
-
-t.arc_angle(30, 90, False)
-
-t.setheading(270)
-
-t.arc_angle(30, 180)
-
-t.setheading(180)
-
-t.arc_angle(30, 90, False)
-
-t.forward(40)
-
-t.generate_g_code()
-
-time.sleep(50)
