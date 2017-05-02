@@ -12,3 +12,6 @@ Created with python programming language, gocogen uses [Turtle](https://docs.pyt
 * For each and every command, see the movement of the tool.
 * In built support for commonly used programs like Alphabets, Numbers, threading etc.
 * Most of all, Open source.
+
+### Presentation
+![ppt](https://raw.githubusercontent.com/gcogen/gcogen/master/ppt.gif)
